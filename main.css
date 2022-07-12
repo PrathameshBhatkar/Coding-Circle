@@ -20,7 +20,6 @@ svg.line {
 }
 div.padding {
   padding-top: 100px;
-  padding-bottom: 100px;
 }
 .navbar-inner {
   background: transparent;
@@ -30,7 +29,7 @@ img.logo {
 }
 #project {
   filter: drop-shadow(-10px -10px 20px rgb(156, 156, 156, 0.15));
-  padding-top: 97px;
+  padding-top: 90px;
   transition: transform 2s ease;
   /* z-index: -1; */
 }
@@ -61,11 +60,9 @@ img.contact {
   margin-bottom: 20px;
 }
 img.contact {
-
   transition: transform 2s ease, box-shadow 0.3s ease;
 }
 img.contact:hover {
-
   transform: translate(0, -6px);
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.26);
 }
@@ -78,7 +75,9 @@ img.contact:hover {
   transform: translate(0, -6px);
   /* z-index:-1; */
 }
-
+div.proj {
+  position: relative;
+}
 .btn-project {
   padding: 20px;
   color: #fff;

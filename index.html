@@ -42,7 +42,7 @@
   <!-- </py-script> -->
   <!-- <div class="nav-bar"> -->
   <!-- website name -->
-  <div class="logo">̥
+  <div class="logo">
     <a href="">
       <img class="logo" src="Images/logo.svg" width="16%" alt="logo" />
     </a>
@@ -76,27 +76,26 @@
   </div>
 
   <div class="projects" style="text-align: center;">
-    <img id="project" src="Images/Algorithms.svg" width="50%" style="padding-top: 35;" />
+    <div class="proj">
+      <img id="project" src="Images/Algorithms.svg" width="50%" style="padding-top: 40px;" />
+      <a href="#" class="btn btn-project" style="left:30%;top:65%;" onclick="openLink_Algorithms()">
+        View Project</a>
+    </div>
     <!-- <button id="view-project" onclick="" style="top:243%;left:33%;">Continue</button> -->
 
-    <div class="container">
-      <!-- <a href="#" class="btn btn-project"> -->
-      <!-- <span>Click me</span> -->
-      <!-- <svg width="13px" height="10px" viewBox="0 0 13 10"> -->
-      <!-- <path d="M1,5 L11,5"></path> -->
-      <!-- <polyline points="8 1 12 5 8 9"></polyline> -->
-      <!-- </svg> -->
-      <!-- </a> -->
-      <div class="buttons">
-        <a href="#" class="btn btn-project" style="left:30%;top:210%;" onclick="openLink_Algorithms()">
-          View Project</a>
-        <a href="#" class="btn btn-project" style="left:57%;top:272%;" onclick="openLink_VideoGames()">
-          View Project</a>
-      </div>
+    <!-- <a href="#" class="btn btn-project"> -->
+    <!-- <span>Click me</span> -->
+    <!-- <svg width="13px" height="10px" viewBox="0 0 13 10"> -->
+    <!-- <path d="M1,5 L11,5"></path> -->
+    <!-- <polyline points="8 1 12 5 8 9"></polyline> -->
+    <!-- </svg> -->
+    <!-- </a> -->
+    <div class="proj">
+      <a href="#" class="btn btn-project" style="left:53%;top:65%;" onclick="openLink_VideoGames()">
+        View Project</a>
+
+      <img id="project" src="Images/Video Game (project).svg" width="50%" />
     </div>
-
-    <img id="project" src="Images/Video Game (project).svg" width="50%" />
-
     <!-- <img id="project" src="Images/TEST EMPTY.svg" width="50%" /> -->
     <!-- <button id = "view-project" onclick="" style="top:243%;left:53%;">Continue</button> -->
     <!-- <img id="svgimg" src="Images/Video Games.svg" width="15%" /> -->
@@ -123,6 +122,8 @@
       <img class="contact" src="Images/itchio.svg" style="width: 3%; text-align: center;">
     </a>
   </div>
+
+  <img src="Images/bottom.svg" width="100%" />
 
   <script>
     function openLink_Algorithms() {
