@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1417" height="1147" viewBox="0 0 1417 1147">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="10" height="177" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="10" height="850" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Skill_Page" data-name="Skill Page" transform="translate(-90 -683)">
+    <rect id="Background" width="1417" height="1140" rx="48" transform="translate(90 683)" fill="#fff"/>
+    <g id="title">
+      <text id="Preferred_Languages" data-name="Preferred Languages" transform="translate(444 867)" font-size="40" font-family="Raleway" font-weight="500"><tspan x="-197.56" y="0">Preferred Languages</tspan></text>
+      <line id="Line_7" data-name="Line 7" x2="590" transform="translate(149.5 879.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="title-2" data-name="title" transform="translate(0 344)">
+      <text id="Other_Known_Languages" data-name="Other Known Languages" transform="translate(445 867)" font-size="40" font-family="Raleway" font-weight="500"><tspan x="-231.42" y="0">Other Known Languages</tspan></text>
+      <line id="Line_7-2" data-name="Line 7" x2="590" transform="translate(149.5 879.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="title-3" data-name="title" transform="translate(712)">
+      <text id="Technologies" transform="translate(445 867)" font-size="40" font-family="Raleway" font-weight="500"><tspan x="-124.9" y="0">Technologies</tspan></text>
+      <line id="Line_7-3" data-name="Line 7" x2="590" transform="translate(149.5 879.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Group_42" data-name="Group 42" transform="translate(-20)">
+      <text id="Python_C_Java_HTML_CSS" data-name="Python
+C#
+Java
+HTML/CSS" transform="translate(243 937)" font-size="27" font-family="Raleway" font-weight="300"><tspan x="0" y="0">Python</tspan><tspan x="0" y="50">C#</tspan><tspan x="0" y="100">Java</tspan><tspan x="0" y="150">HTML/CSS</tspan></text>
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(217 919)" clip-path="url(#clip-path)">
+        <g transform="translate(-217 -919)">
+          <g id="Ellipse_223" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -869)">
+          <g id="Ellipse_223-2" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -819)">
+          <g id="Ellipse_223-3" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -769)">
+          <g id="Ellipse_223-4" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_44" data-name="Group 44" transform="translate(661)">
+      <text id="Webdev:_Operating_Systems:_Web_Scraping_Automation:_Gamedev_Graphics:_Image_Processing_Computer_Vision:_Databases:_Data_Science_and_AI_ML:_Source_Control:" data-name="Webdev:
+
+Operating Systems:
+
+Web Scraping/Automation:
+
+Gamedev/Graphics:
+
+Image Processing/Computer Vision:
+
+Databases:
+
+Data Science and AI/ML:
+
+Source Control:" transform="translate(243 937)" font-size="30" font-family="Raleway" font-weight="600"><tspan x="0" y="0">Webdev:</tspan><tspan x="0" y="50"></tspan><tspan x="0" y="100">Operating Systems:</tspan><tspan x="0" y="150"></tspan><tspan x="0" y="200">Web Scraping/Automation:</tspan><tspan x="0" y="250"></tspan><tspan x="0" y="300">Gamedev/Graphics:</tspan><tspan x="0" y="350"></tspan><tspan x="0" y="400">Image Processing/Computer Vision:</tspan><tspan x="0" y="450"></tspan><tspan x="0" y="500">Databases:</tspan><tspan x="0" y="550"></tspan><tspan x="0" y="600">Data Science and AI/ML:</tspan><tspan x="0" y="650"></tspan><tspan x="0" y="700">Source Control:</tspan></text>
+      <text id="Flask_Django_Windows_Beautiful_Soup_Screen_automation_Unity_Pygame_Custom_3d_Renderer_Blender_OpenCV_Mediapipe_PIL_Firebase_SQLite_Matplotlib_Jupyter_notebook_Sikit-learn_Git_Github_" data-name="Flask, Django
+
+Windows
+
+Beautiful Soup, Screen automation
+
+Unity, Pygame, Custom 3d Renderer, Blender
+
+OpenCV, Mediapipe, PIL, …
+
+Firebase, SQLite
+
+Matplotlib, Jupyter notebook, Sikit-learn
+
+Git, Github
+
+
+" transform="translate(243 974)" font-size="27" font-family="Raleway" font-weight="300"><tspan x="0" y="0">Flask, Django</tspan><tspan x="0" y="50"></tspan><tspan x="0" y="100">Windows</tspan><tspan x="0" y="150"></tspan><tspan x="0" y="200">Beautiful Soup, Screen automation</tspan><tspan x="0" y="250"></tspan><tspan x="0" y="300">Unity, Pygame, Custom 3d Renderer, Blender</tspan><tspan x="0" y="350"></tspan><tspan x="0" y="400">OpenCV, Mediapipe, PIL, …</tspan><tspan x="0" y="450"></tspan><tspan x="0" y="500">Firebase, SQLite</tspan><tspan x="0" y="550"></tspan><tspan x="0" y="600">Matplotlib, Jupyter notebook, Sikit-learn</tspan><tspan x="0" y="650"></tspan><tspan x="0" y="700">Git, Github</tspan><tspan x="0" y="750"></tspan><tspan x="0" y="800"></tspan><tspan x="0" y="850"></tspan></text>
+      <g id="Repeat_Grid_1-2" data-name="Repeat Grid 1" transform="translate(217 919)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-217 -919)">
+          <g id="Ellipse_223-5" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -818)">
+          <g id="Ellipse_223-6" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -717)">
+          <g id="Ellipse_223-7" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -616)">
+          <g id="Ellipse_223-8" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -515)">
+          <g id="Ellipse_223-9" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -414)">
+          <g id="Ellipse_223-10" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -313)">
+          <g id="Ellipse_223-11" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -212)">
+          <g id="Ellipse_223-12" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -111)">
+          <g id="Ellipse_223-13" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <text id="and_more..." data-name="and more..." transform="translate(309 1738)" font-size="27" font-family="Raleway" font-style="italic"><tspan x="-65.907" y="0">and more...</tspan></text>
+    </g>
+    <g id="Group_43" data-name="Group 43" transform="translate(-20 344)">
+      <text id="Ruby_C_Processing_Bash_and_Shell_Script" data-name="Ruby
+C++
+Processing
+Bash and Shell Script" transform="translate(243 937)" font-size="27" font-family="Raleway" font-weight="300"><tspan x="0" y="0">Ruby</tspan><tspan x="0" y="50">C++</tspan><tspan x="0" y="100">Processing</tspan><tspan x="0" y="150">Bash and Shell Script</tspan></text>
+      <g id="Repeat_Grid_1-3" data-name="Repeat Grid 1" transform="translate(217 919)" clip-path="url(#clip-path)">
+        <g transform="translate(-217 -919)">
+          <g id="Ellipse_223-14" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -869)">
+          <g id="Ellipse_223-15" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -819)">
+          <g id="Ellipse_223-16" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+        <g transform="translate(-217 -769)">
+          <g id="Ellipse_223-17" data-name="Ellipse 223" transform="translate(217 919)" stroke="#707070" stroke-width="1">
+            <circle cx="5" cy="5" r="5" stroke="none"/>
+            <circle cx="5" cy="5" r="4.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
