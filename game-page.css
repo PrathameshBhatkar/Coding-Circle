@@ -1,3 +1,21 @@
-div {
+body {
+}
+
+.game_container {
   text-align: center;
+  /* display: grid; */
+  justify-content: center;
+  align-items: center;
+
+  padding-top: 50px;
+}
+.game {
+  padding: 2%;
+  width: 20rem;
+  transition: transform 0.5s ease, box-shadow 1.5s ease;
+}
+.game:hover {
+  transform: translate(0, -5%);
+  box-shadow: 10px -10px 25px 0 rgba(0, 203, 132, .5),
+    -10px 10px 25px 0 rgba(0, 8, 255, .5) ;
 }

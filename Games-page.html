@@ -1,17 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
 <link rel="stylesheet" type="text/css" href="game-page.css" />
+<link rel="stylesheet" type="text/css" href="main.css" />
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+        crossorigin="anonymous" />
+
+        <script type="text/javascript" src="main.js"></script>
     <title>Games</title>
 </head>
 
 <body>
+    <div id="nav-bar">
+        <a href="index.html">
+        <button title="Home" id="navbar-bt" class="Home" href=index.html"><img src="Images/Home.svg"
+                width="75%"></button>
+                </a>
+        <button title="My Skills" id="navbar-bt" class="Skill" onclick="Skill()"><img src="Images/Skills.svg"
+                width="75%"></button>
+        <a href="Games-page.html">
+            <button title="Games" id="navbar-bt" class="asd"><img src="Images/Game Controller.svg" width="75%"></button>
+        </a>
 
-    <div>Hello</div>
+        <button id="navbar-bt" class="Feedback" onclick="Forum()">Feedback</button>
+    </div>
+    <div class="Main-top-layout">
+        <div class="logo">
+            <a href="">
+                <img class="logo" src="Images/Logo new.svg" alt="logo" />
+            </a>
+
+        </div>
+
+        <img src="Images/Group 41.svg" width="100%" style="z-index: -1;" />
+    </div>
+
+    <div class="game_container">
+
+        <a onclick="window.open('https://github.com/PrathameshBhatkar/Special-Cop')"><img class="game" src="Images/Games/special cops.svg" alt="logo" /></a>
+        <a onclick="window.open('https://prathamesh-bhatkar.itch.io/aqua-cleaner')"><img class="game" src="Images/Games/aqua clean.svg" alt="logo" /></a>
+        <a onclick="window.open('https://prathamesh-bhatkar.itch.io/snake-kinematics')"><img class="game" src="Images/Games/Snake Kinematics.svg" alt="logo" /></a>
+        <a onclick="window.open('https://prathamesh-bhatkar.itch.io/dungeon-game')"><img class="game" src="Images/Games/dungeon game.svg" alt="logo" /></a>
+        <a href="" ><img class="game" src="Images/Games/Earth protector.svg" alt="logo" /></a>
+        <a href=""><img class="game" src="Images/Games/snake game.svg" alt="logo" /></a>
+        <a href=""><img class="game" src="Images/Games/craftomania.svg" alt="logo" /></a>
+        <a href=""><img class="game" src="Images/Games/pro game.svg" alt="logo" /></a>
+
+    </div>
+    <img src="Images/bottom.svg" width="100%" />
+
 
 
 </body>
