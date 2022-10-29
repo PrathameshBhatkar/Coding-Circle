@@ -289,7 +289,6 @@
     </filter>
   </defs>
   <g id="Game_Controller" data-name="Game Controller" transform="matrix(0.995, -0.105, 0.105, 0.995, -141.972, -142.893)">
-    <path id="Path_209" data-name="Path 209" d="M992.176,397.6l.024-.053h-.009Z" transform="translate(-804.277 -217.455)" fill="#2f2e41"/>
     <g id="Group_7" data-name="Group 7" transform="translate(128.165 166.059)">
       <g transform="matrix(0.99, 0.1, -0.1, 0.99, -1.91, -9.11)" filter="url(#Path_207)">
         <path id="Path_207-2" data-name="Path 207" d="M902.178,506.732a.741.741,0,0,1,.692-.9l.759-2.522.877,1.051-.855,2.234a.745.745,0,0,1-1.473.139Z" transform="matrix(0.99, -0.1, 0.1, 0.99, -885.81, -384.66)" fill="#ffb6b6"/>
